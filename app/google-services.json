@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106585464012",
+    "project_id": "imersaofabricasoftware",
+    "storage_bucket": "imersaofabricasoftware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106585464012:android:230850b214e46fb1ee7669",
+        "android_client_info": {
+          "package_name": "com.example.appimersao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106585464012-lo45jj8ilv52cfha7qqgcubo5b4i1kjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appimersao",
+            "certificate_hash": "3c02ee97e2d961ea057d0529ce176703e87c097e"
+          }
+        },
+        {
+          "client_id": "106585464012-7adgg1fkpj01g36p97a073gne6i10e97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tVTVJUdy-aK5RBPO7560a6MYRlbqnjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106585464012-7adgg1fkpj01g36p97a073gne6i10e97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
